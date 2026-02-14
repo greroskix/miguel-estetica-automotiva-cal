@@ -14,7 +14,7 @@
 ## 🌐 Site no ar
 
 ### 🔗 Acesse a página online:
-**[👉 Clique aqui para visualizar o site no GitHub Pages](https://greroskix.github.io/miguel-estetica-automotiva/)**
+**[👉 Clique aqui para visualizar o site no GitHub Pages](https://greroskix.github.io/miguel-estetica-automotiva-cal/)**
 
 ---
 
